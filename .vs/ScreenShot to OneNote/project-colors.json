@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fa75e9b3-bd03-4021-9006-2877358b1db3": {
+      "ProjectGuid": "fa75e9b3-bd03-4021-9006-2877358b1db3",
+      "DisplayName": "ScreenShot to OneNote",
+      "ColorIndex": 0
+    },
+    "605c9d43-7e35-4d1f-8bb4-978d8e57e37d": {
+      "ProjectGuid": "605c9d43-7e35-4d1f-8bb4-978d8e57e37d",
+      "DisplayName": "v1",
+      "ColorIndex": 1
+    },
+    "8f737636-a664-4b65-9ca0-519b20b6a9f5": {
+      "ProjectGuid": "8f737636-a664-4b65-9ca0-519b20b6a9f5",
+      "DisplayName": "v1",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
