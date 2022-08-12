@@ -126,5 +126,17 @@ namespace ScreenShot_to_OneNote
             toReturn = comboBox1.Text;
         }
 
+        private void button6_Click(object sender, EventArgs e)
+        {
+            var prc = Process.GetProcessesByName("onenote");
+            if (prc.Length > 0){
+                SetForegroundWindow(prc[0].MainWindowHandle);
+                SendKeys.SendWait("^z");
+                prc = Process.GetProcessesByName("Screenshot to OneNote");
+                if (prc.Length > 0)
+                    SetForegroundWindow(prc[0].MainWindowHandle);
+            }
+        }
+
     }
 }

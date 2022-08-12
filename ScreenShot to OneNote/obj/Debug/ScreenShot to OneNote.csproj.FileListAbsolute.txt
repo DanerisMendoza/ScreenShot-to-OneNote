@@ -6,5 +6,4 @@ C:\Users\dane\OneDrive\my_projects\c#\ScreenShot to OneNote\ScreenShot to OneNot
 C:\Users\dane\OneDrive\my_projects\c#\ScreenShot to OneNote\ScreenShot to OneNote\bin\Debug\ScreenShot to OneNote.pdb
 C:\Users\dane\OneDrive\my_projects\c#\ScreenShot to OneNote\ScreenShot to OneNote\obj\Debug\ScreenShot to OneNote.exe
 C:\Users\dane\OneDrive\my_projects\c#\ScreenShot to OneNote\ScreenShot to OneNote\obj\Debug\ScreenShot to OneNote.pdb
-C:\Users\dane\OneDrive\my_projects\c#\ScreenShot to OneNote\ScreenShot to OneNote\obj\Debug\ScreenShot to OneNote.csproj.AssemblyReference.cache
-C:\Users\dane\OneDrive\my_projects\c#\ScreenShot to OneNote\ScreenShot to OneNote\obj\Debug\ScreenShot to OneNote.csproj.CoreCompileInputs.cache
+C:\Users\dane\OneDrive\my_projects\c#\ScreenShot to OneNote\ScreenShot to OneNote\obj\Debug\ScreenShot to OneNote.csprojResolveAssemblyReference.cache
